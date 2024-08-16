@@ -22,6 +22,8 @@
 ### [YouTube]
 
 ### [스팀 링크] 심사중...
+![image](https://github.com/user-attachments/assets/d7096bf3-ee7c-4ff8-b8df-ac6b68252e1b)
+
 <br><br>
 
 ### 누군가가 나를 납치했다! 무슨 일이 있어도 탈출해야 한다!
