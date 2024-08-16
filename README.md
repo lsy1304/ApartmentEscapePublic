@@ -197,7 +197,7 @@
     ```cs
     public static bool IsInteractInterrupted => DialogueManager.Instance.UI.IsDialogueOn || MapManager.Instance.IsOnMoving || UIManager.Instance.IsUIOpen || !inputEnable;
     ```
-  - (1-2)의 경우, PlayerInteraction에서 조작 무시 조건을 true로 변환하고 대사창에서 false로 바꿔주는데, 퍼즐에 대사창이 없으면 복원되지 않음.
+  - (1-2)의 경우, PlayerInteraction에서 조작 무시 조건을 false로 변환하고 대사창에서 true로 바꿔주는데, 퍼즐에 대사창이 없으면 복원되지 않음.
 
     → 퍼즐에 대사가 없을 때, return 하기 전에 PlayerController.InputEnable을 true로 변경하는 로직 추가
     ```cs
