@@ -21,6 +21,10 @@
 
 ### [YouTube]
 
+### [플레이 링크]
+https://drive.google.com/file/d/1em2s2RcyZwgw__qF73x_DlVtQb9bEpe7/view?usp=drive_link
+
+
 ### [스팀 링크] 심사중...
 ![image](https://github.com/user-attachments/assets/d7096bf3-ee7c-4ff8-b8df-ac6b68252e1b)
 
